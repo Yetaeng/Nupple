@@ -1,0 +1,20 @@
+@value makerPrimary from '../../common/colors.css';
+@value mediaQueryMobile from '../../common/size.css';
+
+.footer {
+  text-align: center;
+  font-size: 1.2em;
+  padding: 2em 0;
+  background-color: makerPrimary;
+}
+
+.github {
+  width: 2.6em;
+  height: 2.6em;
+}
+
+@media screen and (max-width: mediaQueryMobile) {
+  .footer {
+    padding-bottom: 5em;
+  }
+}

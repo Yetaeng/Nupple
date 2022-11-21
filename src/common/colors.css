@@ -1,0 +1,15 @@
+@value makerBlack: black;
+
+@value makerWhite: white;
+
+@value makerPrimary: #cfd8dc;
+
+@value makerPrimaryDark: #9ea7aa;
+
+@value makerGrey: #626262;
+
+@value makerLightGrey: #e8e7e6;
+
+@value makerGreen: #385461;
+
+@value makerShadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
